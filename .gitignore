@@ -27,6 +27,8 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
+Tool_Unreal/Tool_Unreal/build/CMakeFiles/3.30.2/CompilerIdC/a.exe
+Tool_Unreal/Tool_Unreal/build/CMakeFiles/3.30.2/CompilerIdCXX/a.exe
+Tool_Unreal/Debug/Tool_Unreal.exe
